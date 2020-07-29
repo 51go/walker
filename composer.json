@@ -1,0 +1,19 @@
+{
+    "name": "renlu/walker",
+    "description": "walker classes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "黄滚",
+            "email": "hg@yuanli-inc.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "renlu\\": "src/renlu/"
+        }
+    }
+}
